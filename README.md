@@ -2,6 +2,8 @@
 
 https://forsa9828.github.io/Word-Guess-Game/
 
+(Capture2.PNG)
+
 # JavaScript Assignment
 
 ### Overview
